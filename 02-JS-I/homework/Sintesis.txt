@@ -1,0 +1,9 @@
+ * Variables: Una variable es un espacio de memoria que se le asigna para un dato, su valor puede variar.
+
+ * Strings; Tipo de dato en el que se almacenan cadenas de texto.
+
+ * Funciones (argumentos, `return`); Nos permite agilizar el flujo de datos dados ciertos parametros
+
+ * Declaraciones `if`; Declaración que nos pernite comprobar el estado (verdadero o falso) dadas las condiciones declaradas.
+ 
+ * Valores booleanos (`true`, `false`): Valores que solamente tienen 2 estados.
